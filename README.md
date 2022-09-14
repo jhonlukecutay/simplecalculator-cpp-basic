@@ -1,2 +1,2 @@
 # simplecalculator-cpp-basic
-A simple calculator I made based on just my knowledge.
+A simple calculator I made based just on my knowledge.
